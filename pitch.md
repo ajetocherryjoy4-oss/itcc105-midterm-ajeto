@@ -4,7 +4,7 @@ Problem Statement: Why is the old menu-based portal inefficient?
 
 Industry 5.0 Justification: How will your AI empower humans rather than replace them?
 
--The ADSSU AI Copilot reflects the goals of Industry 5.0 by supporting and enhancing human capabilities instead of replacing them. It functions as an intelligent assistant that provides real-time help, useful suggestions, and easier navigation for students. By automating repetitive tasks like answering common inquiries, the AI allows users to focus on more meaningful activities. At the same time, staff remain actively involved in managing and improving the system, ensuring a balanced collaboration between humans and technology.
+-The ASSCAT AI Copilot reflects the goals of Industry 5.0 by supporting and enhancing human capabilities instead of replacing them. It functions as an intelligent assistant that provides real-time help, useful suggestions, and easier navigation for students. By automating repetitive tasks like answering common inquiries, the AI allows users to focus on more meaningful activities. At the same time, staff remain actively involved in managing and improving the system, ensuring a balanced collaboration between humans and technology.
 
 Agile Requirements: Write three (3) User Stories using the format: "As a [User], I want [AI Feature], so that [Benefit]."
 
